@@ -3,6 +3,7 @@
     background-color: aquamarine;
      background-image: url("picture/intro.jpg");
      background-size: cover;
+     background-repeat: no-repeat;
      
 
 }
