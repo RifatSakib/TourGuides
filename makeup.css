@@ -30,6 +30,7 @@ padding-left: 100px;
 {
 
 background-image: url("picture/hello.jpg");
+background-position: center;
 background-size: 90%;
 background-repeat: no-repeat;
 
