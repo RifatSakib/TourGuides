@@ -31,6 +31,8 @@ padding-left: 100px;
 
 background-image: url("picture/hello.jpg");
 background-size: 90%;
+background-repeat: no-repeat;
+
 }
 
 .bd
