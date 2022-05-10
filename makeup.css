@@ -1,0 +1,47 @@
+.body
+{
+    background-color: aquamarine;
+     background-image: url("picture/intro.jpg");
+     background-size: cover;
+     
+
+}
+.intro 
+{
+border: 1px solid beige;
+margin: 200px 100px 200px 240px;
+padding-left: 100px;
+ color: rgb(233, 233, 10);
+ font-size: larger;
+ 
+
+}
+.startbutton
+{
+    color: rgb(253, 8, 8);
+    font-size: 50px;
+    margin: 200px 100px 200px 320px;
+
+}
+
+.page-2body
+
+{
+
+background-image: url("picture/hello.jpg");
+background-size: 90%;
+}
+
+.bd
+{   background-color: rgb(223, 227, 236);
+    opacity: .5;
+    border: 5px solid rgb(228, 228, 15);
+    height: 200px;
+    width: 400px;
+    margin: 5px;
+    padding:  5px 10px;
+     color: rgb(233, 233, 10);
+     font-size: larger;
+     float:left;
+
+}
