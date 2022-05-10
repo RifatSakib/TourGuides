@@ -3,6 +3,7 @@
     background-color: aquamarine;
      background-image: url("picture/intro.jpg");
      background-size: cover;
+     background-repeat: no-repeat;
      
 
 }
@@ -29,7 +30,10 @@ padding-left: 100px;
 {
 
 background-image: url("picture/hello.jpg");
-background-size: 90%;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
 }
 
 .bd
@@ -44,4 +48,13 @@ background-size: 90%;
      font-size: larger;
      float:left;
 
+}
+#logout{
+
+    text-decoration: none;
+    background-image: linear-gradient(40deg,rgb(13, 83, 4),rgb(247, 23, 7),rgb(13, 109, 4)) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
